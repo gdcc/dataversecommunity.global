@@ -1,6 +1,6 @@
 # News
 ## July 2, 2026
-* The 150th Dataverse installation was registered on [the Dataverse map](https://dataverse.org/). The total number of Dataverse installations is likely much higher, we encourage installations not shown on the map, to register in the spreadsheet documented in [Github](https://github.com/IQSS/dataverse-installations)
+* The 150th Dataverse installation was registered on [the Dataverse map](https://dataverse.org/). The total number of Dataverse installations is likely much higher, and we encourage installations not shown on the map to [open](https://github.com/IQSS/dataverse-installations/issues) a GitHub issue.
 * Dieuwertje Bloemen held [a first meeting](https://docs.google.com/document/d/1nE0_THWagjsNK3DeiBBFc1lwb4O0JzIUZdbjWy2G0ps/edit?usp=sharing) about KU Leuven's Dataverse review dashboard to discuss its potential uptake by community members and the necessary collection support and other features that can enable reuse of the open-source add-on.
 * The Documentation working group created [a new guide page](https://guides.dataverse.org/en/latest/admin/features.html) listing and categorizing the main Dataverse features
 * CoreTrustSeal endorsed Borealis CTS Certification Documentation Suite. [More info in the Google Group](https://groups.google.com/g/dataverse-community/c/Uw-spcIQ5-A/m/jysNimQdAgAJ).
