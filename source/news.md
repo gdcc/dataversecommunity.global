@@ -1,4 +1,42 @@
 # News
+## July 2, 2026
+* The 150th Dataverse installation was registered on [the Dataverse map](https://dataverse.org/). The total number of Dataverse installations is likely much higher, we encourage installations not shown on the map, to register in the spreadsheet documented in [Github](https://github.com/IQSS/dataverse-installations)
+* Dieuwertje Bloemen held [a first meeting](https://docs.google.com/document/d/1nE0_THWagjsNK3DeiBBFc1lwb4O0JzIUZdbjWy2G0ps/edit?usp=sharing) about KU Leuven's Dataverse review dashboard to discuss its potential uptake by community members and the necessary collection support and other features that can enable reuse of the open-source add-on.
+* The Documentation working group created [a new guide page](https://guides.dataverse.org/en/latest/admin/features.html) listing and categorizing the main Dataverse features
+* CoreTrustSeal endorsed Borealis CTS Certification Documentation Suite. [More info in the Google Group](https://groups.google.com/g/dataverse-community/c/Uw-spcIQ5-A/m/jysNimQdAgAJ).
+* More news on Dataverse can be found in the [recent Dataverse Community News posts](https://groups.google.com/g/dataverse-community/search?q=%22dataverse%20community%20news%22) published on the Dataverse Users Community email list
+
+## May 2, 2026
+* The [2026 Dataverse Community Meeting](https://dcm2026.com/), hosted by the Barcelona Supercomputing Center took place 12-15 May. A big thank you to the BSC for hosting
+* GDCC held a workshop entitled "Building a Sustainable Path Forward for the Global Dataverse Community" at the community meeting to discuss future sustainability initiatives
+* At the community meeting, GDCC also had its annual member meeting, going over the last year of GDCC activities and the road ahead
+* Next year's community meeting will be hosted by KU Leuven and will take place May 25-28, 2027 in Leuven, Belgium
+* More news on Dataverse can be found in the [recent Dataverse Community News posts](https://groups.google.com/g/dataverse-community/search?q=%22dataverse%20community%20news%22) published on the Dataverse Users Community email list
+
+## April 2, 2026
+* Jetze Touber and Linda Reijnhoudt from DANS presented a plan for implementing file-level licensing in Dataverse are are requesting [feedback](https://groups.google.com/g/dataverse-community/c/F3CEgzKvyEg/m/YEyz-KawAgAJ).
+* GDCC is organizing a workshop at DCM26 entitled "Building a Sustainable Path Forward for the Global Dataverse Community" for which [registration](https://groups.google.com/g/dataverse-community/c/DtbZ_1xBBxI/m/r2qsOFd5AgAJ) is open
+* The large data working group, documentation working group, containerization working group, and python working group are all organizing working group meetings at DCM26 on May 12th
+* Ceilyn Boyd and Philipp Conzett gave [a recorded talk](https://groups.google.com/g/dataverse-community/c/dT1e_jw_8Ck/m/R5VJwyK9AQAJ) entitled "Birdaro Training & Developing the Dataverse Community and Decision-Makers Playbooks"
+* The kick-off meeting for [the Nordic‑Baltic Dataverse Hub (NAISH)](https://www.nordforsk.org/projects/nordic-baltic-dataverse-hub-naish) took place, the project aims to establish a collaborative framework for research data repositories in the Nordic-Baltic region, fostering alignment, resource sharing, and innovation
+* More news on Dataverse can be found in the [recent Dataverse Community News posts](https://groups.google.com/g/dataverse-community/search?q=%22dataverse%20community%20news%22) published on the Dataverse Users Community email list
+
+## February 2, 2026
+* Amber Leahey and Paul Boon gave presentations on geospatial features in the Dataverse community call. The deadline for [providing feedback](https://groups.google.com/g/dataverse-community/c/rA5tdZfauvQ/m/5v109aQwAgAJ) on the geospatial fields Amber presented is March 30th.
+* A [preliminary agenda](https://groups.google.com/g/dataverse-community/c/OxN2bWtGfP0/m/rX017yBsAAAJ) was published for the 2026 Dataverse Community Meeting and the early bird deadline was extended until March 9th
+* More news on Dataverse can be found in the [recent Dataverse Community News posts](https://groups.google.com/g/dataverse-community/search?q=%22dataverse%20community%20news%22) published on the Dataverse Users Community email list
+
+## November 2, 2025
+* [Slides](https://osf.io/j4r2e) from the 2025 Dataverse Community Meeting have been published
+* A [call for sponsors](https://groups.google.com/g/dataverse-community/c/K-kEUyJ2plg/m/c3K1pz8EAQAJ) went out to host the 2026 Dataverse Community Meeting
+* DANS ran [a first meeting](https://groups.google.com/g/dataverse-community/c/F3CEgzKvyEg/m/DvMJWaWiAwAJ) with the community about adding licensing at the file level
+* More news on Dataverse can be found in the [recent Dataverse Community News posts](https://groups.google.com/g/dataverse-community/search?q=%22dataverse%20community%20news%22) published on the Dataverse Users Community email list
+  
+## September 2, 2025
+* The GDCC steering committee members were [announced](https://groups.google.com/g/dataverse-community/c/aQ-CmBhjC78/m/sLd5tzOZAAAJ)
+* A new [big data admin guide](https://guides.dataverse.org/en/latest/admin/big-data-administration.html) was created by Jim Myers (GDCC)
+* More news on Dataverse can be found in the [recent Dataverse Community News posts](https://groups.google.com/g/dataverse-community/search?q=%22dataverse%20community%20news%22) published on the Dataverse Users Community email list
+
 ## August 2, 2025
 An impressive list of [2025-07 Dataverse Community News](https://groups.google.com/g/dataverse-community/c/WGAZpOfRvHk) has been published on the Dataverse Users Community email list.
 
